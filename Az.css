@@ -11,3 +11,10 @@ div{
     border-radius: 25px;
     box-shadow: 3px 3px rgba(44, 40, 40, 0.61);
 }
+.TP{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    border-color: black;
+    text-align: center;
+    padding-top: 40px;
+}
