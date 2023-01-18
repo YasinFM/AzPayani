@@ -3,7 +3,7 @@ html{
     background: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
 }
 div{
-    height: 400px;
+    height: 450px;
     width: 350px;
     margin: auto;
     margin-top: 100px;
@@ -17,4 +17,20 @@ div{
     border-color: black;
     text-align: center;
     padding-top: 40px;
+}
+.t{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    margin-left: 20px;
+}
+.in{
+    margin-left: 20px;
+    width: 300px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: rgba(170, 157, 255, 0.222);
+    transition: 0.3s;
+}
+.in:hover{
+    background-color: rgba(170, 157, 255, 0.429);
 }
