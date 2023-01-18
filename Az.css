@@ -2,3 +2,12 @@ html{
     height: 100%;
     background: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
 }
+div{
+    height: 400px;
+    width: 350px;
+    margin: auto;
+    margin-top: 100px;
+    background: rgba(35, 28, 45, 0.899);
+    border-radius: 25px;
+    box-shadow: 3px 3px rgba(44, 40, 40, 0.61);
+}
