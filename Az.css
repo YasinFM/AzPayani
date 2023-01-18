@@ -3,7 +3,7 @@ html{
     background: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
 }
 div{
-    height: 450px;
+    height: 500px;
     width: 350px;
     margin: auto;
     margin-top: 100px;
@@ -33,4 +33,37 @@ div{
 }
 .in:hover{
     background-color: rgba(170, 157, 255, 0.429);
+}
+li{
+    display: inline-block;
+}
+li{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+.ulp{
+    margin-left: 0px;
+}
+.ult{
+    padding-left: 66px;
+}
+h6{
+    margin: auto;
+}
+.ul2{
+    margin-top: -30px;
+}
+button{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: rgba(170, 157, 255, 1);
+    transition: 0.3s;
+}
+button:hover{
+    background-color: rgb(196, 187, 252);
+    cursor: pointer;
+}
+.price{
+    padding-left: 99px;   
 }
